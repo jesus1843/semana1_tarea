@@ -1,8 +1,8 @@
-# Tarea de la Semana 1 del programa especializado "Full-Stack Web Development en Español"
+# Tarea de la Semana 2 del programa especializado "Full-Stack Web Development en Español"
 
 ## Descripción del proyecto:
 
-1. Este es un diseño básico de una página web de una tienda de muebles
+1. Este es un diseño básico de un sitio web multipágina de una tienda de muebles
 2. Tiene combinación del framework de CSS Bootstrap en su versión 4.6, más unos estilos CSS personalizados escritos por mí
 3. Los estilos CSS escritos por mi fueron para usar CSS Grid a la lista de productos, para agregarle un espaciado entre cada producto, ya que esa opción no está disponible con las clases CSS de Bootstrap
 
